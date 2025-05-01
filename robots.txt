@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cloudbread0714.github.io/sitemap.xml
