@@ -1,6 +1,6 @@
 ---
 title: Tags
-icon: fas fa-tags
+icon: fas fa-tag
 order: 3
-layout: tag
+layout: tag  # ✅ 'tags' 말고 'tag'
 ---
