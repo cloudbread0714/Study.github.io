@@ -161,6 +161,7 @@ kramdown:
 collections:
   tabs:
     output: true
+    permalink: /tabs/:path/
     sort_by: order
 
 defaults:
