@@ -1,16 +1,16 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-Hello. I'm Yujin 👋 👋   
-This blog is a space where I document my learning jorney and development notes.
+Hello! I'm Yujin 👋👋  
+This blog is a space where I document my learning journey and development notes.
 
-- Major : Software
-- Interests : Networking, Math, Cloud
-- Technologies use: Python,C
+- **Major**: Software  
+- **Interests**: Networking, Math, Cloud  
+- **Technologies I use**: Python, C
 
-I aim to keep learning and growing consistently though regular updates.
+I aim to keep learning and growing consistently through regular updates.
 
   
