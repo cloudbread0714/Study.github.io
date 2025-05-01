@@ -11,4 +11,6 @@ This blog is a space where I document my learning jorney and development notes.
 - Interests : Networking, Math, Cloud
 - Technologies use: Python,C
 
+I aim to keep learning and growing consistently though regular updates.
+
   
