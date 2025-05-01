@@ -4,7 +4,8 @@ title: "How to use Wireshark"
 date: 2025-04-30 10:00:00 +0900
 categories:
   - Networking Lab
-tags: [wireshark]
+tags:
+  - Wireshark
 ---
 
 Today’s post is about how to use Wireshark.
