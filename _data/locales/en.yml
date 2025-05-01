@@ -8,3 +8,8 @@ categories:
   category_measure:
     singular: "category"
     plural: "categories"
+
+tags:
+  post_measure:
+    singular: "post"
+    plural: "posts"
