@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -161,17 +161,16 @@ kramdown:
 collections:
   tabs:
     output: true
+    permalink: /tabs/:path/
     sort_by: order
 
 defaults:
   - scope:
-      path: "" # An empty string here means all files in the project
-      type: posts
+      path: ""
+      type: tabs
     values:
-      layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/
+      layout: page
+      permalink: /:title/
 
 exclude:
   - "*.gem"
