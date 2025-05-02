@@ -166,13 +166,11 @@ collections:
 
 defaults:
   - scope:
-      path: "" # An empty string here means all files in the project
-      type: posts
+      path: ""
+      type: tabs
     values:
-      layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/
+      layout: page
+      permalink: /:title/
 
 exclude:
   - "*.gem"
