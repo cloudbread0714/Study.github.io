@@ -33,3 +33,7 @@ tags:
 | `connect()`      | Connect to a remote server (client-side)         |
 | `send()` / `recv()` | Send or receive data                         |
 | `close()`        | Close the socket                                 |
+
+
+```
+
