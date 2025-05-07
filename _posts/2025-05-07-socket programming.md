@@ -35,5 +35,21 @@ tags:
 | `close()`        | Close the socket                                 |
 
 
-```
+##Create Socket 
+- use the socket() function to create a new socket  
+``` socket(int domain, int type, int protocol); ```
+domain : address family (e.g. IPv4 : AFINET, IPv6 : AF_INET6)
+type :  Communication type (e.g. TCP : SOCK_STREAM, UDP: SOCK_DGRAM)
+protocol : Usually set to 0 to automatically select the appropriate protocol 
+ 
 
+##Bind the Socket 
+- use the bind() function to associate the socket with a specific IP address and port number.
+``` int bind (int sockfd, const struct sockaddr *addr, socklen_t addrlen); ```
+sockfd : The socket file descriptor returned by socket()
+addr : A pointer to a sockaddr structure containing the desired IP address and port
+addrlen : The size of the sockaddr structure 
+
+- bind() assigns a local address(IP+port) to the socket, so it can receive incoming connections or data.
+
+https://seolin.tistory.com/97
