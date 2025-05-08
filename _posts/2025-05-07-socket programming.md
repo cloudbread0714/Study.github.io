@@ -45,7 +45,7 @@ Use the `socket()` function to create a new socket.
 int socket(int domain, int type, int protocol);
 ```
 
-| Parameter  | Description |
+| Parameter  | Description                                                         |
 |------------|-------------|
 | `domain`   | Address family (e.g., IPv4: `AF_INET`, IPv6: `AF_INET6`) |
 | `type`     | Communication type (e.g., TCP: `SOCK_STREAM`, UDP: `SOCK_DGRAM`) |
