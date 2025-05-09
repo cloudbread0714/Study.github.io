@@ -52,7 +52,7 @@ label.pack()
 tk.mainloop()
 ```
 
-![그림](/assets/img/tkinter1)
+![그림](/assets/img/tkinter1.png)
 
 
 ## Example 2 : make a button 
@@ -71,8 +71,8 @@ button.pack(side=tk.LEFT, padx=10, pady=10)
 button2.pack(side=tk.LEFT, padx=10, pady=10)
 root.mainloop()
 ```
-![그림](/assets/img/tkinter2)
-![그림](/assets/img/tkinter3)
+![그림](/assets/img/tkinter2.png)
+![그림](/assets/img/tkinter3.png)
 
 
 
