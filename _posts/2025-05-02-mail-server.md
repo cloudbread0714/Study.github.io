@@ -1,9 +1,9 @@
 ---
-title: "How to use Wireshark"
+title: "What Is Map"
 date: 2025-05-02 10:00:00 +0900
 layout: post
 categories:
-  - Networking
+  - security
 tags:
   - Wireshark
 ---
