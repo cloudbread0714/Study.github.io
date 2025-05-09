@@ -57,7 +57,7 @@ tk.mainloop()
 
 ## Example 2 : make a button 
 
-```c
+```
 import tkinter as tk
 
 root = tk.Tk()
